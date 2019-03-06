@@ -1,11 +1,2 @@
-[
-  {
-    "value":"Arif",
-    "year":"2003"
-  },
+['Arif', 'Sameer']
 
-  {
-    "value":"Sameer",
-    "year":"2023"
-  }
-]
